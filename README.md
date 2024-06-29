@@ -1,6 +1,6 @@
 # WoW: WOTLK 3.3.5a Addons
 
-This is a repo for custom addons created for members of the Fuggin Guild on the Warmane free servers.
+This is a repo for custom addons created for members of the "Fuggins Gaming" Guild on the Warmane free servers.
 
 ## How to Download the Addons
 
