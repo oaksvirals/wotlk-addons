@@ -12,4 +12,4 @@ Click the addon zip you want to download above and do what's shown in the image 
 
 ### Wintergrasp Timer
 
-[Wintergrasp Timer](https://github.com/oaksvirals/wotlk-addons/blob/main/WintergraspTimer.zip) is a simple alert addon so you never miss the next Wintergrasp. You can enable/disable the alert and manually ping the time until the next Wintergrasp to your party or guild. Use command /wgt to bring up the addon in the game.
+Wintergrasp Timer is a simple alert addon so you never miss the next Wintergrasp. You can enable/disable the alert and manually ping the time until the next Wintergrasp to your party or guild. Use command /wgt to bring up the addon in the game.
