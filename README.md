@@ -1,4 +1,4 @@
-#Wow: Wrath of the Lich King 3.3.5a Addons
+#WOTLK-3.3.5a-Addons
 
 ## How to Download the Addons
 
